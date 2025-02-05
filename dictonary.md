@@ -1,182 +1,179 @@
-| Word                          | Definition                                                                 | Example Sentence                                      | Definition (Hinglish Language)                          | Example Sentence (Hinglish Language)                     |
-|-------------------------------|---------------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-| in terms of                   | Concerning or regarding something.                                       | In terms of cost, this option is more affordable.   | Kisi cheez ke maamle mein.                             | Kharch ke maamle mein, yeh vikalp zyada sasta hai.     |
-| at the same time              | Simultaneously; during the same period.                                  | She was studying at the same time as working.       | Ek hi samay par.                                       | Usne ek hi samay par padhai ki jab wo kaam kar rahi thi.|
-| from the point of view        | Considering a particular perspective.                                     | From the point of view of the teacher, this method is effective. | Kisi vishay ki nazar se.                               | Teacher ki nazar se, yeh tarika prabhavi hai.          |
-| in order to                   | For the purpose of achieving something.                                   | He studied hard in order to pass the exam.          | Kisi cheez ko prapt karne ke liye.                     | Usne pariksha pass karne ke liye mehnat ki.             |
-| as well as                    | In addition to; also.                                                    | She enjoys reading as well as writing.               | Iske alawa; bhi.                                       | Usse padhne ke alawa likhna bhi pasand hai.             |
-| part of the                   | A component or element of something larger.                               | This is part of the larger project.                  | Kisi bade cheez ka ek hissa.                           | Yeh bade pariyojana ka ek hissa hai.                    |
-| the fact that                 | The reality or truth of a situation.                                     | The fact that he is late is concerning.              | Yeh sachai ki baat hai.                                 | Uska der se aana chinta ka vishay hai.                  |
-| in other words                | To put it differently; to clarify.                                       | He is a genius; in other words, he is very smart.    | Dusre shabdon mein.                                    | Wo ek pratibha hai; dusre shabdon mein, wo bahut samajhdar hai. |
-| the point of view of          | The perspective or opinion of someone.                                    | The point of view of the author is clear in the text.| Kisi vyakti ki nazar.                                  | Lekhak ki nazar is likhai mein spasht hai.              |
-| there is a                    | Indicates the existence of something.                                    | There is a problem we need to address.               | Wahan ek samasya hai.                                  | Humein ek samasya ka samadhan karna hai.                |
-| as a result of                | Because of; due to.                                                      | As a result of the rain, the match was canceled.    | Ki wajah se; ke karan.                                 | Barish ki wajah se, match cancel ho gaya.                |
-| this is a                     | Used to introduce or identify something.                                  | This is a great opportunity for growth.              | Yeh ek accha mauka hai.                                | Yeh vikas ke liye ek accha mauka hai.                   |
-| on the basis of               | According to; based on.                                                  | Decisions were made on the basis of the data.       | Ke aadhar par; ke adhar par.                           | Faisle data ke aadhar par liye gaye.                    |
-| a number of                   | Several; many.                                                           | A number of students participated in the event.     | Kai; bahut saare.                                      | Kai chhatra is ghatna mein shamil hue.                  |
-| there is no                   | Indicates the absence of something.                                       | There is no reason to worry.                          | Wahan koi wajah nahi hai.                               | Chinta karne ki koi wajah nahi hai.                      |
-| point of view                 | A particular attitude or way of considering a matter.                    | His point of view is different from mine.            | Kisi maamle par vishesh drishti.                       | Uska nazariya mere se alag hai.                          |
-| the number of                 | The quantity or count of something.                                      | The number of participants increased this year.      | Kisi cheez ki sankhya.                                 | Is saal bhagidaron ki sankhya badh gayi.                 |
-| the extent to which           | The degree or level of something.                                        | The extent to which he can help is limited.          | Kisi cheez ka star.                                    | Uski madad karne ki kshamata seemit hai.                |
-| as a result                   | Consequently; therefore.                                                 | As a result, we decided to change our strategy.      | Iske natije mein.                                      | Iske natije mein, humne apni rananiti badalne ka faisla kiya. |
-| in the case of                | Regarding a specific situation.                                           | In the case of an emergency, call this number.       | Kisi vishesh paristhiti mein.                          | Kisi aapatkalin paristhiti mein, is number par call karein. |
-| whether or not                | Indicates a choice or condition.                                         | We need to decide whether or not to proceed.         | Kya ya nahi.                                           | Humein faisla karna hai ki aage badhna hai ya nahi.     |
-| the same time                 | Simultaneously; at the same moment.                                      | She can multitask and work at the same time.         | Ek hi samay par.                                       | Wo ek hi samay par kai kaam kar sakti hai.              |
-| with respect to               | Concerning; regarding.                                                  | With respect to your request, we will comply.        | Kisi cheez ke maamle mein.                             | Aapki request ke maamle mein, hum palan karenge.        |
-| point of view of              | The perspective or opinion of someone.                                    | The point of view of the community is important.     | Kisi samuday ki nazar.                                 | Samuday ki nazar mahatvapurn hai.                        |
-| as a function of              | In relation to; depending on.                                            | The output varies as a function of input.            | Kisi cheez ke roop mein.                               | Output input ke roop mein badalta hai.                  |
-| at the same                   | Simultaneously; at the same moment.                                      | We arrived at the same time.                          | Ek hi samay par.                                       | Hum ek hi samay par pahunche.                            |
-| the point of view             | A particular attitude or way of considering a matter.                    | The point of view of the experts is valuable.        | Kisi maamle par vishesh drishti.                       | Visheshagyon ki nazar mahatvapurn hai.                   |
-| in such a way                | In a manner that; in a way that.                                        | She explained it in such a way that everyone understood. | Aise tareeke se.                                       | Usne aise tareeke se samjhaya ki sabne samjha.          |
-| the use of                    | The act of employing something for a purpose.                            | The use of technology has transformed education.     | Kisi cheez ka istemal.                                 | Takneek ka istemal shiksha ko badal raha hai.           |
-| in other words the            | To clarify or restate something.                                         | In other words, the project is behind schedule.      | Dusre shabdon mein.                                    | Dusre shabdon mein, yeh pariyojana samay se peeche hai.  |
-| in terms of the               | Concerning or regarding something specific.                              | In terms of the budget, we are on track.             | Kisi vishesh cheez ke maamle mein.                     | Budget ke maamle mein, hum sahi raaste par hain.        |
-| more likely to                | Having a greater chance of occurring.                                     | He is more likely to succeed with hard work.         | Hone ki zyada sambhavna.                               | Mehnat se uski safalta ki sambhavna zyada hai.           |
-| likely to be                  | Expected to happen or occur.                                             | She is likely to be late for the meeting.            | Hone ki sambhavna hai.                                 | Uske meeting ke liye der se aane ki sambhavna hai.      |
-| in this case                  | Regarding this particular situation.                                     | In this case, we should take immediate action.       | Is vishesh paristhiti mein.                            | Is vishesh paristhiti mein, humein turant kadam uthana chahiye. |
-| as opposed to                 | In contrast to; rather than.                                             | As opposed to last year, this year is more successful.| Ke vipreet; balki.                                     | Pichle saal ke vipreet, is saal zyada safal hai.        |
-| the way in which              | The manner or method by which something is done.                        | The way in which he solved the problem was impressive.| Kisi cheez ko karne ka tareeka.                         | Usne samasya ko hal karne ka tareeka prabhavit kiya.    |
-| based on                      | According to; derived from.                                              | The decision was based on the latest research.      | Ke aadhar par.                                         | Faisla aakhri anusandhan ke aadhar par tha.              |
-| can be used                   | Indicates the potential for something to be utilized.                   | This tool can be used for various tasks.             | Istemal kiya ja sakta hai.                             | Yeh upkaran kai kaamon ke liye istemal kiya ja sakta hai.|
-| the relationship between       | The connection or association between two or more things.               | The relationship between diet and health is crucial. | Do ya adhik cheezon ke beech sambandh.                 | Aahar aur swasthya ke beech sambandh mahatvapurn hai.   |
-| it is not                     | Indicates negation or absence.                                          | It is not easy to learn a new language.              | Yeh asan nahi hai.                                     | Nayi bhasha seekhna asan nahi hai.                       |
-| and so on                     | Used to indicate continuation or additional items.                      | We need to buy fruits, vegetables, and so on.       | Aur aise hi.                                           | Humein phal, sabzi, aur aise hi kharidna hai.            |
-| on the basis                  | According to; based on.                                                  | On the basis of evidence, we can make a conclusion.  | Ke aadhar par.                                         | Saboot ke aadhar par, hum ek nishkarsh nikaal sakte hain.|
-| the difference between         | The distinction or contrast between two or more things.                 | The difference between the two products is clear.    | Do ya adhik cheezon ke beech antar.                    | Do utpadon ke beech ka antar spasht hai.                 |
-| it may be                     | Indicates possibility or uncertainty.                                    | It may be beneficial to exercise regularly.           | Yeh sambhav hai.                                       | Niyamit vyayam karna sambhav hai.                        |
-| the presence of               | The existence or occurrence of something.                                | The presence of water is essential for life.         | Kisi cheez ka hona.                                    | Paani ka hona jeevan ke liye avashyak hai.              |
-| in the sense that             | In a way that; because.                                                  | In the sense that he is honest, he is trustworthy.   | Aise maayne mein.                                      | Aise maayne mein, wo imaandaar hai, isliye wo vishwasniya hai. |
-| a variety of                  | A range of different types or kinds.                                     | The store offers a variety of products.              | Kai prakar ke.                                         | Dukan kai prakar ke utpad pradan karti hai.             |
-| different types of            | Various kinds or categories.                                             | There are different types of fruits available.       | Alag alag prakar ke.                                   | Alag alag prakar ke phal uplabdh hain.                  |
-| extent to which               | The degree or level of something.                                        | The extent to which he can help is limited.          | Kisi cheez ka star.                                    | Uski madad karne ki kshamata seemit hai.                 |
-| exactly the same              | Identical; precisely alike.                                              | The two cars are exactly the same model.             | Bilkul wahi.                                          | Dono gaadiyan bilkul wahi model hain.                    |
-| a series of                   | A sequence of related events or items.                                   | The project involves a series of steps.              | Ek kram.                                              | Yeh pariyojana ek kram ko shamil karti hai.             |
-| in relation to                | Concerning; regarding.                                                  | In relation to your question, I have an answer.      | Kisi cheez ke maamle mein.                             | Aapke prashna ke maamle mein, mere paas ek uttar hai.   |
-| it can be                     | Indicates the potential for something to exist or occur.                | It can be difficult to manage time effectively.      | Yeh ho sakta hai.                                      | Samay ko prabhavit roop se prabandhit karna ho sakta hai.|
-| the case of                   | Referring to a specific situation.                                       | In the case of an emergency, call for help.          | Kisi vishesh paristhiti mein.                          | Kisi aapatkalin paristhiti mein, madad ke liye call karein. |
-| in the case                   | Regarding a specific situation.                                           | In the case of a fire, use the exit.                 | Kisi vishesh paristhiti mein.                          | Kisi aag ki paristhiti mein, exit ka istemal karein.    |
-| large number of               | A significant quantity or count of something.                            | A large number of people attended the concert.       | Ek bada sankhya.                                      | Ek bada sankhya logon ne concert mein shamil hue.       |
-| that there is a              | Indicates the existence of something.                                    | It is important to acknowledge that there is a problem. | Yeh mahatvapurn hai ki yeh samasya hai.                | Yeh mahatvapurn hai ki yeh samasya hai.                  |
-| to some extent                | Partially; to a certain degree.                                         | To some extent, I agree with your opinion.           | Kuch had tak.                                          | Kuch had tak, main aapke vichar se sahmat hoon.         |
-| that there is                 | Indicates the existence of something.                                    | It is clear that there is a misunderstanding.        | Yeh spasht hai ki yahan ek galatfahmi hai.            | Yeh spasht hai ki yahan ek galatfahmi hai.              |
-| the real world                | The practical or actual environment outside of theoretical concepts.     | The real world presents challenges not found in books.| Vastavik duniya.                                       | Vastavik duniya mein aise chunautiyan hain jo kitabein nahi dikhati. |
-| is based on                   | Derived from; founded on.                                               | The theory is based on extensive research.           | Ke aadhar par.                                         | Yeh siddhant vistarit anusandhan ke aadhar par hai.     |
-| due to the                   | Because of; as a result of.                                             | The event was canceled due to the rain.              | Ki wajah se.                                           | Ghatna barish ki wajah se cancel hui.                    |
-| ways in which                 | The methods or manners of doing something.                               | There are many ways in which we can improve.        | Kisi cheez ko karne ke tareeke.                        | Hum sudhar karne ke kai tareeke hain.                    |
-| an example of                 | A specific instance or illustration of something.                       | This is an example of excellent teamwork.            | Ek udaharan.                                           | Yeh acchi team ka ek udaharan hai.                       |
-| the fact that the             | The reality or truth of a situation.                                     | The fact that the project is delayed is concerning.  | Yeh sachai ki baat hai.                                 | Yeh sachai ki baat hai ki pariyojana vilambit hai.      |
-| referred to as                | Identified or named in a particular way.                                 | This is referred to as a breakthrough in technology. | Jise is naam se jana jata hai.                          | Isse takneek mein ek breakthrough ke roop mein jana jata hai. |
-| may not be                    | Indicates possibility or uncertainty.                                    | It may not be possible to finish on time.            | Yeh sambhav nahi ho sakta.                             | Samay par khatam karna sambhav nahi ho sakta.           |
-| way in which                  | The manner or method by which something is done.                        | The way in which she presented her ideas was impressive.| Kisi cheez ko karne ka tareeka.                         | Usne apne vicharon ko prastut karne ka tareeka prabhavit kiya. |
-| it does not                   | Indicates negation or absence.                                          | It does not seem like a good idea.                    | Yeh achha vichar nahi lagta.                           | Yeh achha vichar nahi lagta.                            |
-| from the point of             | Considering a particular perspective.                                     | From the point of view of the customer, the service was excellent.| Kisi vishay ki nazar se.                               | Grahak ki nazar se, seva shandar thi.                   |
-| the development of            | The process of growth or advancement.                                    | The development of new technologies is rapid.        | Nayi takneek ka vikas.                                 | Nayi takneek ka vikas tezi se ho raha hai.               |
-| in the same                   | Simultaneously; at the same moment.                                      | We arrived in the same car.                           | Ek hi samay par.                                       | Hum ek hi gaadi mein pahunche.                           |
-| a result of                   | The outcome or consequence of something.                                  | The delay was a result of traffic.                   | Kisi cheez ka parinaam.                                | Der traffic ka parinaam tha.                             |
-| the basis of                  | The foundation or underlying principle of something.                     | The basis of our argument is solid evidence.         | Kisi cheez ka aadhar.                                  | Hamara tark ka aadhar majboot saboot hai.                |
-| the role of                   | The function or responsibility of someone or something.                  | The role of education is crucial in society.         | Kisi cheez ka kirdar.                                  | Samaj mein shiksha ka kirdar mahatvapurn hai.           |
-| there may be                  | Indicates possibility or uncertainty.                                    | There may be a solution to this problem.             | Yeh sambhav hai.                                       | Is samasya ka ek samadhan sambhav hai.                   |
-| difference between the         | The distinction or contrast between two or more things.                 | The difference between the two methods is significant.| Do ya adhik cheezon ke beech antar.                    | Do vidhi ke beech ka antar mahatvapurn hai.             |
-| between the two               | Referring to the relationship or distinction between two items.         | The difference between the two options is clear.     | Do cheezon ke beech.                                   | Do vikalpon ke beech ka antar spasht hai.                |
-| the size of                   | The dimensions or magnitude of something.                                | The size of the project is quite large.              | Kisi cheez ka akar.                                    | Pariyojana ka akar kaafi bada hai.                       |
-| the importance of             | The significance or value of something.                                  | The importance of teamwork cannot be overstated.     | Kisi cheez ka mahatva.                                 | Teamwork ka mahatva kabhi bhi kam nahi kiya ja sakta.   |
-| that there are                | Indicates the existence of multiple items or situations.                 | It is important to note that there are options available.| Yeh mahatvapurn hai ki kai vikalp uplabdh hain.       | Yeh mahatvapurn hai ki kai vikalp uplabdh hain.         |
-| as a function                 | In relation to; depending on.                                            | The output varies as a function of input.            | Kisi cheez ke roop mein.                               | Output input ke roop mein badalta hai.                  |
-| associated with the           | Connected or related to something.                                       | This issue is associated with poor planning.         | Kisi cheez se sambandhit.                              | Yeh samasya kharab yojana se sambandhit hai.            |
-| the amount of                 | The quantity or measure of something.                                    | The amount of water needed is significant.           | Kisi cheez ki matra.                                   | Paani ki avashyak matra mahatvapurn hai.                |
-| a function of                 | A relationship or dependency on something.                               | Success is often a function of hard work.            | Kisi cheez ka kirdar.                                  | Safalta aksar mehnat ka kirdar hota hai.                |
-| as an example                 | Used to illustrate or clarify something.                                 | As an example, consider the following case.          | Ek udaharan ke roop mein.                              | Ek udaharan ke roop mein, is maamle par vichar karein.  |
-| for example if                | Used to introduce a hypothetical situation.                              | For example, if it rains, we will stay indoors.      | Udaharan ke liye agar.                                 | Udaharan ke liye agar barish hoti hai, hum andar rahenge.|
-| such as the                   | For instance; like.                                                      | We need supplies such as food and water.             | Jaise ki.                                             | Humein aavashyaktaen jaise ki khana aur paani chahiye.   |
-| based on a                    | According to; derived from.                                              | The decision was based on a thorough analysis.       | Ke aadhar par.                                         | Faisla ek vistarit vishleshan ke aadhar par tha.        |
-| as part of                   | Included in; as a component of something.                                 | This is as part of our ongoing project.              | Kisi cheez ka hissa.                                   | Yeh hamari chalti hui pariyojana ka hissa hai.          |
-| this is not                   | Indicates negation or absence.                                          | This is not the right time to discuss this.          | Yeh sahi samay nahi hai.                               | Yeh is vishay par charcha karne ka sahi samay nahi hai.  |
-| in which the                  | Referring to a specific situation or context.                            | In which the results were unexpected.                 | Jis mein.                                             | Jis mein parinaam aashcharyajanak the.                  |
-| the effect of                 | The result or impact of something.                                       | The effect of the new policy was immediate.          | Kisi cheez ka prabhav.                                 | Naye niti ka prabhav turant tha.                         |
-| in response to                | As a reaction to something.                                              | In response to the feedback, we made changes.        | Kisi cheez ka pratikriya.                              | Pratikriya ke roop mein, humne badlav kiye.             |
-| related to the                | Connected or associated with something.                                  | This topic is related to our previous discussion.    | Kisi cheez se sambandhit.                              | Yeh vishay hamari pichli charcha se sambandhit hai.      |
-| each of these                 | Referring to every item in a group.                                      | Each of these options has its advantages.            | Inme se har ek.                                        | Inme se har ek vikalp ke apne labh hain.                 |
-| the effects of                | The results or impacts of something.                                     | The effects of climate change are concerning.        | Kisi cheez ke prabhav.                                 | Jalvayu parivartan ke prabhav chinta ka vishay hain.    |
-| terms of the                  | Concerning or regarding something specific.                              | In terms of quality, this product is excellent.      | Kisi vishesh cheez ke maamle mein.                     | Gunvatta ke maamle mein, yeh utpad shandar hai.         |
-| we can see                    | Indicates observation or understanding.                                   | We can see the results of our efforts.               | Hum dekh sakte hain.                                   | Hum apni koshishon ke parinaam dekh sakte hain.         |
-| there are three               | Indicates the existence of three items or situations.                    | There are three main points to consider.              | Wahan teen mukhya bindu hain.                          | Wahan teen mukhya bindu hain.                            |
-| for example the              | Used to introduce a specific instance or illustration.                       | For example, the results were surprising.            | Udaharan ke liye.                                      | Udaharan ke liye, parinaam aashcharyajanak the.       |
-| according to the             | In agreement with; as stated by.                                            | According to the report, sales have increased.       | Ke anusar.                                            | Report ke anusar, bikri mein vriddhi hui hai.         |
-| the existence of             | The state of being present or occurring.                                     | The existence of life on other planets is debated.   | Jeevan ka hona.                                       | Anya grahon par jeevan ka hona charcha ka vishay hai.  |
-| the concept of               | An abstract idea or general notion.                                         | The concept of freedom is fundamental to democracy.   | Vichar.                                              | Swatantrata ka vichar loktantra ke liye mahatvapurn hai.|
-| in this way                  | In a manner or method that has been described.                              | In this way, we can achieve our goals.               | Is tarah se.                                         | Is tarah se, hum apne lakshya prapt kar sakte hain.    |
-| focus on the                 | To concentrate attention or effort on something.                            | We need to focus on the main issues.                  | Par dhyan dena.                                      | Humein mukhya muddon par dhyan dena chahiye.           |
-| the nature of                | The inherent or essential qualities of something.                           | The nature of the problem is complex.                 | Prakriti.                                            | Samasya ki prakriti jatil hai.                         |
-| the context of               | The circumstances or setting in which something occurs.                     | The context of the discussion is important.           | Pariprekshya.                                        | Charcha ka pariprekshya mahatvapurn hai.               |
-| a list of                    | A series of items or names written or printed.                              | Here is a list of recommended books.                  | Ek suchi.                                            | Yahaan sujhaaye gaye kitabon ki ek suchi hai.          |
-| this type of                 | Referring to a specific category or classification.                         | This type of analysis is useful.                       | Is prakar ka.                                        | Is prakar ka vishleshan upyogi hai.                    |
-| such a way                   | In a manner similar to that mentioned.                                      | We can solve the issue in such a way.                 | Aise tareeke se.                                     | Hum is samasya ko aise tareeke se suljha sakte hain.   |
-| the ability to               | The capacity or skill to do something.                                      | The ability to communicate effectively is essential.   | Kshamata.                                            | Prabhavit roop se sanchar karne ki kshamata mahatvapurn hai. |
-| the idea that                | A thought or suggestion about something.                                    | The idea that everyone should have access to education is important. | Vichar.                                              | Yeh vichar mahatvapurn hai ki sabhi ko shiksha milni chahiye. |
-| a set of                    | A collection or group of related items.                                     | A set of tools is required for the job.               | Ek set.                                             | Kaam ke liye ek set upkaran ki avashyakta hai.         |
-| other words the              | Referring to different terms or phrases.                                    | Other words the author used were interesting.         | Anya shabd.                                          | Lekhak dwara upyog kiye gaye anya shabd dilchasp the.  |
-| parts of the                 | The components or sections of something.                                    | The parts of the machine need to be assembled.        | Hisse.                                              | Machine ke hisse jodne ki avashyakta hai.              |
-| nature of the                | The inherent characteristics or qualities of something.                     | The nature of the relationship is changing.           | Prakriti.                                            | Sambandh ki prakriti badal rahi hai.                   |
-| the level of                 | The degree or extent of something.                                          | The level of competition is increasing.               | Star.                                               | Pratiyogita ka star badh raha hai.                     |
-| this would be                | Indicates a hypothetical situation or outcome.                              | This would be a great opportunity for growth.         | Yeh hoga.                                           | Yeh vikas ke liye ek shandar avsar hoga.               |
-| is that the                  | Used to introduce a statement or explanation.                               | Is that the final decision?                            | Kya yeh antim faisla hai?                            | Kya yeh antim faisla hai?                             |
-| is much more                 | Indicates a greater degree or extent.                                       | This is much more complicated than I thought.         | Yeh bahut adhik.                                     | Yeh maine socha tha usse bahut adhik jatil hai.       |
-| the same as                  | Identical or equivalent to something else.                                  | This is the same as what we discussed earlier.        | Yeh wahi hai.                                        | Yeh wahi hai jo humne pehle charcha ki thi.            |
-| to show that                 | To demonstrate or indicate something.                                       | The data is used to show that our hypothesis is correct.| Dikhane ke liye.                                     | Data ka upyog dikhane ke liye ki hamara anuman sahi hai. |
-| there is an                  | Indicates the existence of something.                                       | There is an opportunity for improvement.               | Ek mauka hai.                                       | Sudhar ka ek mauka hai.                               |
-| the notion of                | A belief or idea about something.                                          | The notion of justice varies across cultures.          | Vichar.                                              | Nyay ka vichar sabhyataon mein alag hai.               |
-| in the sense                 | In a way that is understood or interpreted.                                 | In the sense of fairness, we must consider all views. | Is maamle mein.                                      | Is maamle mein, humein sabhi vicharon par vichar karna chahiye. |
-| in the context               | Referring to the circumstances surrounding something.                       | In the context of the discussion, this is relevant.   | Pariprekshya mein.                                   | Charcha ke pariprekshya mein, yeh prasangik hai.      |
-| the process of               | The series of actions or steps taken to achieve a particular end.          | The process of learning takes time.                    | Prakriya.                                           | Seekhne ki prakriya mein samay lagta hai.              |
-| is not a                     | Indicates negation or absence.                                             | This is not a simple task.                             | Yeh nahi hai.                                        | Yeh ek saral kaam nahi hai.                           |
-| both of these                | Referring to two items or situations together.                              | Both of these options are viable.                      | Dono.                                               | Dono vikalp sambhav hain.                             |
-| for example in               | Used to introduce a specific instance within a broader context.             | For example, in this case, we need more data.         | Udaharan ke liye.                                    | Udaharan ke liye, is maamle mein humein adhik data ki avashyakta hai. |
-| the part of the              | Referring to a specific section or component of something.                  | The part of the project that needs attention is clear. | Hissa.                                              | Pariyojana ka hissa jo dhyan ki avashyakta hai, spasht hai. |
-| the size of                  | The dimensions or magnitude of something.                                   | The size of the team has increased.                    | Aakar.                                              | Team ka aakar badh gaya hai.                           |
-| the form of                  | The shape or structure of something.                                       | The form of the sculpture is unique.                   | Roop.                                               | Murti ka roop anokha hai.                             |
-| the sum of                   | The total amount resulting from the addition of two or more numbers.       | The sum of the expenses was higher than expected.     | Yog.                                                | Kharchon ka yog apeksha se adhik tha.                 |
-| the reason for               | The explanation or justification for something.                             | The reason for the delay was traffic.                  | Karan.                                              | Der ka karan traffic tha.                             |
-| a and b                      | Referring to two items or elements together.                                | A and B are both important factors.                    | A aur B.                                            | A aur B dono mahatvapurn tatva hain.                  |
-| that this is                 | Used to introduce a statement or explanation.                               | That this is a critical issue cannot be denied.       | Yeh hai.                                            | Yeh ek mahatvapurn mudda hai, inkaar nahi kiya ja sakta. |
-| fact that the                | The reality or truth of a situation.                                       | The fact that the project is delayed is concerning.    | Yeh sachai ki baat hai.                              | Yeh sachai ki baat hai ki pariyojana vilambit hai.     |
-| this is an                   | Used to introduce a statement or explanation.                               | This is an important announcement.                      | Yeh hai.                                            | Yeh ek mahatvapurn ghoshna hai.                        |
-| because it is                | Used to provide a reason or explanation.                                    | Because it is raining, we will stay indoors.           | Kyunki yeh hai.                                      | Kyunki yeh barish ho rahi hai, hum andar rahenge.      |
-| have the same                | Indicates equality or similarity.                                           | They have the same interests.                          | Wahi hai.                                            | Unke ruchi wahi hai.                                   |
-| part of a                    | Referring to a component or section of something.                          | This is part of a larger project.                      | Hissa.                                              | Yeh ek bade pariyojana ka hissa hai.                   |
-| the question of              | Referring to a specific issue or topic.                                     | The question of ethics is complex.                     | Prashna.                                            | Naitikta ka prashna jatil hai.                         |
-| of these two                 | Referring to two items or situations.                                       | The advantages of these two methods are clear.        | In dono ka.                                         | In dono ke labh spasht hain.                           |
-| the value of                 | The importance or worth of something.                                      | The value of education cannot be overstated.          | Moolya.                                             | Shiksha ka moolya kabhi bhi kam nahi kiya ja sakta.    |
-| assume that the              | To take for granted or suppose something to be true.                       | Assume that the data is accurate.                      | Maane ki.                                           | Maane ki data sahi hai.                               |
-| size of the                  | The dimensions or magnitude of something.                                   | The size of the audience was impressive.               | Aakar.                                              | Darshak ka aakar prabhavit karne wala tha.             |
-| in such a                   | In a manner similar to that mentioned.                                      | In such a case, we must act quickly.                   | Aise.                                               | Aise paristhiti mein, humein jaldi karna chahiye.      |
-| the distribution of          | The way in which something is shared or spread out.                        | The distribution of resources is uneven.               | Vitaran.                                            | Sansadhan ka vitaran asaman hai.                       |
-| of the same                  | Referring to items or situations that are identical.                       | The results of the same experiment were consistent.    | Wahi.                                               | Wahi prayog ke parinaam ek jaise the.                  |
-| the meaning of               | The definition or significance of something.                                | The meaning of this term is unclear.                   | Arth.                                               | Is shabd ka arth spasht nahi hai.                       |
-| view of the                  | The perspective or opinion regarding something.                             | In my view of the situation, we need to change.       | Nazariya.                                           | Mere nazariye se, humein badlav ki avashyakta hai.     |
-| each of the                  | Referring to every item in a group.                                        | Each of the students passed the exam.                  | Har ek.                                             | Har ek vidyarthi ne pariksha pass ki.                  |
-| which is not                 | Indicates negation or absence.                                             | This is a method which is not effective.               | Yeh nahi hai.                                        | Yeh ek aisa tareeka hai jo prabhavit nahi hai.         |
-| the issue of                 | Referring to a specific problem or topic.                                   | The issue of climate change is urgent.                 | Mudda.                                              | Jalvayu parivartan ka mudda turant hai.                |
-| but this is                  | Used to introduce a contrasting statement.                                  | But this is not the only solution.                     | Lekin yeh hai.                                       | Lekin yeh sirf ek samadhan nahi hai.                    |
-| if this is                   | Used to introduce a conditional statement.                                  | If this is true, we must act accordingly.             | Agar yeh hai.                                        | Agar yeh sach hai, humein anusar karna chahiye.        |
-| the rate of                  | The speed or frequency of something.                                        | The rate of inflation is rising.                        | Dar.                                                | Mulyasthiti ka dar badh raha hai.                       |
-| that we are                  | Used to introduce a statement about a group.                                | That we are making progress is evident.                | Yeh hai.                                            | Yeh hai ki hum pragati kar rahe hain.                  |
-| with the same                | Indicates similarity or equality.                                           | We are working with the same team.                     | Wahi.                                               | Hum wahi team ke saath kaam kar rahe hain.             |
-| the result of                | The outcome or consequence of something.                                    | The result of the experiment was unexpected.           | Parinaam.                                           | Prayog ka parinaam aashcharyajanak tha.                |
-| the problem of               | Referring to a specific issue or challenge.                                 | The problem of poverty needs to be addressed.          | Samasya.                                            | Garibi ki samasya ko suljhana hoga.                    |
-| is to be                     | Indicates a future action or intention.                                     | The meeting is to be held tomorrow.                    | Hona hai.                                           | Baithak kal hogi.                                      |
-| the study of                 | The examination or analysis of a subject.                                   | The study of history is fascinating.                    | Adhyayan.                                           | Itihas ka adhyayan dilchasp hai.                       |
-| which is the                 | Referring to a specific item or situation.                                  | Which is the best option available?                     | Kya hai.                                            | Kya sabse achha vikalp uplabdh hai?                    |
-| the definition of            | The meaning or explanation of a term.                                      | The definition of success varies for everyone.         | Paribhasha.                                         | Safalta ki paribhasha sabke liye alag hai.             |
-| here is that                 | Used to introduce a statement or explanation.                               | Here is that we need to consider all factors.          | Yah hai.                                            | Yah hai ki humein sabhi tatvon par vichar karna chahiye. |
-| from the point               | Considering a particular perspective.                                       | From the point of view of the teacher, this is important.| Nazariya.                                           | Shikshak ke nazariye se, yeh mahatvapurn hai.          |
-| a form of                    | A specific type or version of something.                                   | Yoga is a form of exercise.                            | Ek roop.                                            | Yoga ek vyayam ka roop hai.                            |
-| the frequency of             | The rate at which something occurs.                                         | The frequency of meetings has increased.               | Aavritti.                                           | Baithakon ki aavritti badh gayi hai.                   |
-| the order of                 | The arrangement or sequence of something.                                   | The order of events was confusing.                      | Kram.                                               | Ghatnaon ka kram uljhan bhara tha.                     |
-| the way that                 | Referring to the manner or method of doing something.                      | The way that she explained it was clear.               | Tareeka.                                            | Usne isse samjhane ka tareeka spasht tha.              |
-| function of the              | The role or purpose of something.                                          | The function of the heart is to pump blood.            | Karya.                                              | Dil ka karya rakt ko pump karna hai.                   |
-| of the two                   | Referring to two items or situations together.                              | The advantages of the two methods are clear.           | In dono ka.                                         | In dono ke labh spasht hain.                           |
-| different from the           | Indicates a distinction or contrast.                                       | This method is different from the previous one.        | Alag hai.                                           | Yeh tareeka pichle se alag hai.                        |
-
+in terms of                 
+at the same time            
+from the point of view      
+in order to                 
+as well as                  
+part of the                 
+the fact that               
+in other words              
+the point of view of        
+there is a                  
+as a result of              
+this is a                   
+on the basis of             
+a number of                 
+there is no                 
+point of view               
+the number of               
+the extent to which         
+as a result                 
+in the case of              
+whether or not              
+the same time               
+with respect to             
+point of view of            
+as a function of            
+at the same                 
+the point of view           
+in such a way               
+the use of                  
+in other words the          
+in terms of the             
+more likely to              
+likely to be                
+in this case                
+as opposed to               
+the way in which            
+based on                    
+can be used                 
+the relationship between    
+it is not                   
+and so on                   
+on the basis                
+the difference between      
+it may be                   
+the presence of             
+in the sense that           
+a variety of                
+different types of          
+extent to which             
+exactly the same            
+a series of                 
+in relation to              
+it can be                   
+the case of                 
+in the case                 
+large number of             
+that there is a             
+to some extent              
+that there is               
+the real world              
+is based on                 
+due to the                  
+ways in which               
+an example of               
+the fact that the           
+referred to as              
+may not be                  
+way in which                
+it does not                 
+from the point of           
+the development of          
+in the same                 
+a result of                 
+the basis of                
+the role of                 
+there may be                
+difference between the      
+between the two             
+the size of                 
+the importance of           
+that there are              
+as a function               
+associated with the         
+the amount of               
+a function of               
+as an example               
+for example if              
+such as the                 
+based on a                  
+as part of                  
+this is not                 
+in which the                
+the effect of               
+in response to              
+related to the              
+each of these               
+the effects of              
+terms of the                
+we can see                  
+there are three             
+for example the             
+according to the            
+the existence of            
+the concept of              
+in this way                 
+focus on the                
+the nature of               
+the context of              
+a list of                   
+this type of                
+such a way                  
+the ability to              
+the idea that               
+a set of                    
+other words the             
+parts of the                
+nature of the               
+the level of                
+this would be               
+is that the                 
+is much more                
+the same as                 
+to show that                
+there is an                 
+the notion of               
+in the sense                
+in the context              
+the process of              
+is not a                    
+both of these               
+for example in              
+the part of the             
+the size of                 
+the form of                 
+the sum of                  
+the reason for              
+a and b                     
+that this is                
+fact that the               
+this is an                  
+because it is               
+have the same               
+part of a                   
+the question of             
+of these two                
+the value of                
+assume that the             
+size of the                 
+in such a                   
+the distribution of         
+of the same                 
+the meaning of              
+view of the                 
+each of the                 
+which is not                
+the issue of                
+but this is                 
+if this is                  
+the rate of                 
+that we are                 
+with the same               
+the result of               
+the problem of              
+is to be                    
+the study of                
+which is the                
+the definition of           
+here is that                
+from the point              
+a form of                   
+the frequency of            
+the order of                
+the way that                
+function of the             
+of the two                  
+different from the          
 the structure of
 what are the
 is that it
@@ -737,7 +734,6 @@ unkind
 unknown
 unlawful
 unlucky
-
 unmarried
 unnatural
 unnecessary
@@ -1620,7 +1616,21 @@ so-called
 straightforward
 undergo
 whereby
-analysed, analyser, analysers, analyses, analysing, analysis, analyst, analysts, analytic, analytical, analytically, analyze, analyzed, analyzes, analyzing
+analysed
+analyser
+analysers
+analyses
+analysing
+analysis
+analyst
+analysts
+analytic
+analytical
+analytically
+analyze
+analyzed
+analyzes
+analyzing
 approachable, approached, approaches, approaching, unapproachable
 areas
 assessable, assessed, assesses, assessing, assessment, assessments, reassess, reassessed, reassessing, reassessment, unassessed
